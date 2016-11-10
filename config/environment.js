@@ -12,6 +12,14 @@ module.exports = function(environment) {
         // e.g. 'with-controller': true
       }
     },
+    
+    firebase: {
+      apiKey: "AIzaSyBxlCf1rnwwzxY06ntqR2xev6ODe5R1tFI",
+      authDomain: "bedene-project.firebaseapp.com",
+      databaseURL: "https://bedene-project.firebaseio.com",
+      storageBucket: "bedene-project.appspot.com",
+      messagingSenderId: "782224763019"
+    },
 
     APP: {
       // Here you can pass flags/options to your application instance
