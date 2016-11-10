@@ -15,10 +15,10 @@ module.exports = function(environment) {
     
     firebase: {
       apiKey: "AIzaSyBxlCf1rnwwzxY06ntqR2xev6ODe5R1tFI",
-      authDomain: "bedene-project.firebaseapp.com",
-      databaseURL: "https://bedene-project.firebaseio.com",
-      storageBucket: "bedene-project.appspot.com",
-      messagingSenderId: "782224763019"
+    authDomain: "bedene-project.firebaseapp.com",
+    databaseURL: "https://bedene-project.firebaseio.com",
+    storageBucket: "bedene-project.appspot.com",
+    messagingSenderId: "782224763019"
     },
 
     APP: {
